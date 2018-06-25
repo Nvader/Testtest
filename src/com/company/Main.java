@@ -53,5 +53,8 @@ public class Main {
         } else if (c > 1999 && c <= 1000000) {
             System.out.println("Your current average salary now is just about right");
         }
+
+
+
     }
 }
